@@ -83,6 +83,11 @@ Data preparation was performed using Power Query:
 
 ![Facebook Dashboard](https://github.com/i-ashish-07/Meta-Ads-Performance-ROI-Optimization-Dashboard/raw/main/Facebook.png)
 
+
+## 📊 Instagram Dashboard
+
+![Instagram Dashboard](https://github.com/i-ashish-07/Meta-Ads-Performance-ROI-Optimization-Dashboard/raw/main/Instagram.png)
+
 ---
 
 ##  Conclusion
