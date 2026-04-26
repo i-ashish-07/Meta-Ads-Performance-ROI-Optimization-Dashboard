@@ -79,7 +79,9 @@ Data preparation was performed using Power Query:
 
 ##  Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+## 📊 Facebook Dashboard
+
+![Facebook Dashboard](https://github.com/i-ashish-07/Meta-Ads-Performance-ROI-Optimization-Dashboard/raw/main/Facebook.png)
 
 ---
 
