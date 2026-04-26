@@ -2,7 +2,7 @@
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 This project analyzes Meta Ads (Facebook & Instagram) performance to understand user engagement, campaign effectiveness, and conversion efficiency.
 
@@ -10,7 +10,7 @@ The goal is to enable data-driven decisions that help optimize ad spend and impr
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 * Power BI
 * Power Query (Data Transformation)
@@ -18,7 +18,7 @@ The goal is to enable data-driven decisions that help optimize ad spend and impr
 
 ---
 
-## 🔧 Data Preparation
+##  Data Preparation
 
 Data preparation was performed using Power Query:
 
@@ -29,14 +29,14 @@ Data preparation was performed using Power Query:
 
 ---
 
-## 🧩 Data Modeling
+##  Data Modeling
 
 * Built relationships between tables
 * Designed a structured data model for efficient analysis
 
 ---
 
-## 📐 Key DAX Measures
+##  Key DAX Measures
 
 * CTR (Click Through Rate)
 * Engagement Rate
@@ -46,7 +46,7 @@ Data preparation was performed using Power Query:
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 * KPI cards for performance overview
 * Platform filter (Facebook vs Instagram)
@@ -58,7 +58,7 @@ Data preparation was performed using Power Query:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 * Facebook outperforms Instagram in engagement and conversions
 * Peak engagement observed between 8 AM – 12 PM
@@ -68,7 +68,7 @@ Data preparation was performed using Power Query:
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 * Allocate more budget to Facebook campaigns
 * Optimize Instagram targeting and creatives
@@ -77,12 +77,12 @@ Data preparation was performed using Power Query:
 
 ---
 
-## 🖼️ Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard](images/dashboard.png)
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 
 This dashboard provides a comprehensive view of ad performance across platforms, helping businesses make informed decisions to improve campaign effectiveness and maximize ROI.
